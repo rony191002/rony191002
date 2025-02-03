@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Rony Hossain</h1>
+<h1 align="center">I'm Md. Rony Hossain</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **Web Development**
